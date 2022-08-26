@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI**
 
-- 💬 Ask me about **python, java and flask**
+- 💬 Ask me about **python and flask**
 
 - 📫 How to reach me **mashymalii@gmail.com**
 
