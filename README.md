@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mashymali&label=Profile%20views&color=0e75b6&style=flat" alt="mashymali" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mashymali" target="blank"><img src="https://img.shields.io/twitter/follow/mashymali?logo=twitter&style=for-the-badge" alt="mashymali" /></a> </p>
+[//]: <> ( <p align="left"> <a href="https://twitter.com/mashymali" target="blank"><img src="https://img.shields.io/twitter/follow/mashymali?logo=twitter&style=for-the-badge" alt="mashymali" /></a> </p>) 
 
 [//]: <> (- 🔭 I’m currently working on **OpenCV programs**) 
 
