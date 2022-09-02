@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mashymalii@gmail.com**
 
-- ⚡ Fun fact **Funny but weird**
+- ⚡ Fun fact **I like solving jigsaw puzzles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
