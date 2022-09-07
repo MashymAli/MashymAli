@@ -7,9 +7,9 @@
 
 [//]: <> (- 🔭 I’m currently working on **OpenCV programs**) 
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **something new**
 
-- 💬 Ask me about **python and flask**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **mashymalii@gmail.com**
 
