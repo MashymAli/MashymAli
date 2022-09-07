@@ -27,4 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mashymali&theme=algolia&langs_count=10&show_icons=true&locale=en&layout=compact" alt="mashymali" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashymali&theme=algolia&show_icons=true&locale=en&hide=prs" alt="mashymali" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashymali&theme=algolia&show_icons=true&locale=en" alt="mashymali" /></p>
+
+
