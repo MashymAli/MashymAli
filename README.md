@@ -5,7 +5,7 @@
 
 [//]: <> ( <p align="left"> <a href="https://twitter.com/mashymali" target="blank"><img src="https://img.shields.io/twitter/follow/mashymali?logo=twitter&style=for-the-badge" alt="mashymali" /></a> </p>) 
 
-[//]: <> (- 🔭 I’m currently working on **OpenCV programs**)
+- 🔭 I’m currently working on **ML**
 
 - 🌱 I’m currently learning **something new**
 
@@ -28,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mashymali&theme=algolia&langs_count=10&show_icons=true&locale=en&layout=compact" alt="mashymali"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashymali&theme=algolia&show_icons=true&locale=en" alt="mashymali" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MashymAli&theme=prussian&border_radius=4.3&background=051028)](https://git.io/streak-stats)
