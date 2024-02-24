@@ -5,7 +5,7 @@
 
 [//]: <> ( <p align="left"> <a href="https://twitter.com/mashymali" target="blank"><img src="https://img.shields.io/twitter/follow/mashymali?logo=twitter&style=for-the-badge" alt="mashymali" /></a> </p>) 
 
-- 🔭 I’m currently working on **django website**
+- 🔭 I’m currently working on **textile design pattern generation**
 
 - 🌱 I’m currently learning **something new**
 
